@@ -19,7 +19,13 @@ openssh-server
 nginx
 ```
 
-# Installation
+# Prerequisites
+- [Vagrant](https://www.vagrantup.com/downloads.html)
+- [VirtualBox <= 6.0](https://www.virtualbox.org/wiki/Download_Old_Builds)
+- git
+- a shell 😁
+
+# Installation / How to start
 
 1. Clone the repository.
 2. Execute `vagrant up` and wait for the end of the installation and configuration.
